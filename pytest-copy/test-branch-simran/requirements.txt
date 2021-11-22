@@ -1,0 +1,10 @@
+Flask~=1.1.2
+pip~=18.1
+MarkupSafe~=1.1.1
+Werkzeug~=0.16.0
+Jinja2~=2.11.3
+click~=7.1.2
+itsdangerous~=1.1.0
+setuptools~=40.6.2
+flask-sqlalchemy
+flask-restplus
